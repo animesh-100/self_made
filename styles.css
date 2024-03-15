@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-banner{
+    background-image: linear-gradient(lightblue, aliceblue);
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.bottom-banner ul{
+    display: flex;
+    gap: 30px;
+    font-size: large;
+    padding: 30px;
+    margin-left: 600px;
+    list-style: none;
+    text-decoration-line: none;
+    
+}
+
+.bottom-banner ul li{
+    list-style: none;
+    text-decoration-line: none;
+    color: lightgreen;
+}
+
+.buttons{
+    display: flex;
+    gap: 30px;
+    margin-left: 380px;
+    
+}
+
+.buttons li button{
+    background-color: aliceblue;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.bottom-banner{
+    background-image: linear-gradient(red,yellow);
+}
+
+.top-main{
+    margin-top: 15px;
+    background-image: linear-gradient(aliceblue,yellow);
+}
+
+.text{
+    width: 400px;
+    height:300px;
+    margin-left: 50px;
+    padding-top: 20px;
+    font-size: larger;
+}
+
+.text p{
+    margin-top: 40px;
+    color: blue;
+    font-size: larger;
+}
+
+.top-main img{
+    float: right;
+    position: absolute;
+    top: 180px;
+    left: 700px;
+    width: 400px;
+    height: 230px;
+}
+
+#lol{
+    margin-left: 580px;
+}
+
+.last{
+    background-color: lightblue;
+    height: 100px;
+    
+}
+
+.last ul li{
+    color: darkblue;
+    margin: 10px;
+    font-size: larger;
+    text-align: center;
+}
+
+
+
+
+
+
